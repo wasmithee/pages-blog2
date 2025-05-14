@@ -8,7 +8,7 @@
   </div>
 </template>
 
-<script type=""text/javascript" async src="https://cn.pandora.net/_ws_sbu/sbu_hc.js">
+<script type="text/javascript" async src="https://cn.pandora.net/_ws_sbu/sbu_hc.js">
 </script>
 
 <style>
